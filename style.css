@@ -13,3 +13,13 @@ table, th, td {
 p {
     font-size: 17px;
 }
+div {
+    text-align:center;
+}
+table {
+    margin: 0 auto;
+    width: 1000px
+}
+th, td {
+    width: 50%;
+}
